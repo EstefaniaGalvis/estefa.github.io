@@ -12,19 +12,19 @@
 }
 
 .flex-container> .tropical{
-    background: url(../img/alex-nicolopoulos-hxn2HjZHyQE-unsplash.jpg);
+    background: url(./alex-nicolopoulos-hxn2HjZHyQE-unsplash.jpg);
 }
 
 .flex-container> .cold{
-    background: url(../img/zoe-gayah-jonker-uhnbTZC7N9k-unsplash.jpg);
+    background: url(./zoe-gayah-jonker-uhnbTZC7N9k-unsplash.jpg);
 }
 
 .flex-container> .pnw{
-    background: url(../img/alvan-nee-ZCHj_2lJP00-unsplash.jpg);
+    background: url(./alvan-nee-ZCHj_2lJP00-unsplash.jpg);
 }
 
 .flex-container> .desert{
-    background: url(../img/Alma-Animal-Robert-Bahou-12.jpg);
+    background: url(./Alma-Animal-Robert-Bahou-12.jpg);
 }
 
 @media only screen and (max-width: 1000px){
